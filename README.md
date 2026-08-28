@@ -32,16 +32,4 @@ This tool is for educational and testing purposes only. Do not use generated num
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/OshekharO/CC-GEN/issues).
-
-## 👨‍💻 Author
-
-- GitHub: [@OshekharO](https://github.com/OshekharO)
-- Website: [uncoder.eu.org](https://uncoder.eu.org)
-
-## 🙏 Acknowledgments
-
-- [Luhn Algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Normalize CSS](https://necolas.github.io/normalize.css/)
-- [jQuery](https://jquery.com/)
+Contributions, issues, and feature requests are welcome!
